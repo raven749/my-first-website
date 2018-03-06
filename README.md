@@ -1,26 +1,35 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+My Very First Webpage
 
+## Some of the technologies involved
 
-Hi there! Welcome to Cloud9 IDE!
+### HTML
 
-To get you started, we included a small hello world application.
+#### Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. 
 
-1) Open the hello-world.html file
+### CCS3
 
-2) Click on the Preview button to open a live preview pane
+#### Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language
 
-3) Make some changes to the file, save, watch the preview, and have fun!
+### Python
 
-Happy coding!
-The Cloud9 IDE team
+#### interpreted high-level programming language for general-purpose programming
 
+### Javascript
 
-## Support & Documentation
+#### JavaScript is the programming language of the web. You can use it to add dynamic behavior, store information, and handle requests and responses on a website. 
 
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+### Django
+
+#### Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It's free and open source.
+
+### Flask
+
+#### Flask is a micro web framework written in Python and based on the Werkzeug toolkit and Jinja2 template engine
+
+### MySQL
+
+#### MySQL is an open-source relational database management system (RDBMS)
+
+### MongoDB
+
+#### MongoDB is a free and open-source cross-platform document-oriented database program
